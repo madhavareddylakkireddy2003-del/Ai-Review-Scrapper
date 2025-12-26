@@ -121,7 +121,7 @@ npm or bun
 
 Steps
 # Clone the repository
-git clone https://github.com/your-username/ai-review-scrapper.git
+git clone https:[//github.com/your-username/ai-review-scrapper.git](https://github.com/madhavareddylakkireddy2003-del/Ai-Review-Scrapper)
 
 # Navigate to project folder
 cd ai-review-scrapper
